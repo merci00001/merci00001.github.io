@@ -23,14 +23,14 @@ latest_posts:
   enabled: false
 ---
 
-I'm a machine learning researcher working on **multimodal and vision-language models** and on **automating model design with LLMs**.
+I'm a machine learning researcher working on **multimodal and vision-language models** and **LLM agents**. I'm also interested in **efficient AI**, such as pruning and making large models cheaper to run.
 I completed my MSc in Information Theory and Machine Learning at [ETH Zürich](https://ethz.ch/) in February 2026, after a BSc in Electrical Engineering at ETH.
 
 My research interests include:
 
 - **Visual grounding and evidence retrieval** in vision-language models: finding _where_ a model should look, without extra training
-- **Efficient multimodal inference**, such as token pruning for 2D/3D MLLMs
-- **LLM-driven neural architecture search**: using language models as search agents over architecture spaces
+- **LLM agents**: language models that plan, search, and act, e.g. as search agents over architecture spaces
+- **Efficient AI**: pruning (including token pruning for 2D/3D MLLMs) and faster, cheaper inference
 - **LLM fine-tuning** (SFT, GRPO) for classification and document tasks
 
 My MSc thesis on [Entropy-Gradient Grounding](https://entropy-gradient-grounding.github.io/), a training-free way to retrieve visual evidence in VLMs, became a first-author paper at **ECCV 2026**.
