@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: merci00001.github.io/sitemap.xml
+Sitemap: https://merci00001.github.io/sitemap.xml
