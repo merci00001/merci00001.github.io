@@ -28,10 +28,9 @@ I completed my MSc in Information Theory and Machine Learning at [ETH Zürich](h
 
 My research interests include:
 
-- **Visual grounding and evidence retrieval** in vision-language models: finding _where_ a model should look, without extra training
-- **LLM agents**: language models that plan, search, and act, e.g. as search agents over architecture spaces
+- **Multimodal LLMs (MLLMs)**
+- **LLM agents**
 - **Efficient AI**: pruning (including token pruning for 2D/3D MLLMs) and faster, cheaper inference
-- **LLM fine-tuning** (SFT, GRPO) for classification and document tasks
 
 My MSc thesis on [Entropy-Gradient Grounding](https://entropy-gradient-grounding.github.io/), a training-free way to retrieve visual evidence in VLMs, became a first-author paper at **ECCV 2026**.
 I've also worked as a research intern in industry: at the **Bosch** Computer Vision division in Yokohama, where I used SAM to improve pseudo-labels for panoptic segmentation, and at **Sony** in Tokyo, where I built NAS algorithms with LLMs as search agents. That work led to a co-authored paper at **NeurIPS 2026**.
