@@ -33,7 +33,7 @@ My research interests include:
 - **LLM-driven neural architecture search**: using language models as search agents over architecture spaces
 - **LLM fine-tuning** (SFT, GRPO) for classification and document tasks
 
-My MSc thesis on [Entropy-Gradient Grounding](/publications/), a training-free way to retrieve visual evidence in VLMs, became a first-author paper at **ECCV 2026**.
+My MSc thesis on [Entropy-Gradient Grounding](https://entropy-gradient-grounding.github.io/), a training-free way to retrieve visual evidence in VLMs, became a first-author paper at **ECCV 2026**.
 I've also worked as a research intern in industry: at the **Bosch** Computer Vision division in Yokohama, where I used SAM to improve pseudo-labels for panoptic segmentation, and at **Sony** in Tokyo, where I built NAS algorithms with LLMs as search agents. That work led to a co-authored paper at **NeurIPS 2026**.
 
 Outside research, I co-founded **Lexy AI**, which builds LLM-based tools that generate legal documents, and I co-lead an LLM-bias study with ETH Juniors.

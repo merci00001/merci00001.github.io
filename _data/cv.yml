@@ -42,16 +42,18 @@ cv:
           - T. Ohashi
         publisher: NeurIPS 2026
         releaseDate: 2026
+        url: https://arxiv.org/abs/2605.19247
 
       - title: "Entropy-Gradient Grounding: Training-Free Evidence Retrieval in Vision-Language Models"
         authors:
           - Marcel Gröpl
-          - J. Jung
-          - S. Hong
-          - S. Kim
-          - M. Pollefeys
+          - Jaewoo Jung
+          - Seungryong Kim
+          - Marc Pollefeys
+          - Sunghwan Hong
         publisher: ECCV 2026
         releaseDate: 2026
+        url: https://entropy-gradient-grounding.github.io/
 
     Experience:
       - company: Lexy AI
